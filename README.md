@@ -19,22 +19,20 @@ __Excel Dashboard__ <br>
 Excel dashboard was created to present the findings of this investigative analysis. The dashboard consist of
 interactive charts to give user an comprehensive view. <br>
 
-
-
+---
 
 __Pivot Table__ <br>
 Pivot tables were utilize to summarize and aggregate the data for exploration and identification of trend lines.
 Pivot table allows for filtering ,grouping, and calculation of matrices to provide meaningful insights. <br>
 
-
-
+---
 
 __Findings__ <br>
 Based on the investigative analysis, the following point were identified:
 
--Most of deaths during first wave was in large populated countries.
--Recovery was higher in countries where healthcare system was strong
--Deaths per 100 cases was highest in european region along with Highest recovery per 100 cases
--Least deaths per 100 cases were recorded in south east asia region
--After vaccination new cases were highest in african region
--While highest new deaths were recorded in south east asia region
+-Most of deaths during first wave was in large populated countries <br>
+-Recovery was higher in countries where healthcare system was strong <br>
+-Deaths per 100 cases was highest in european region along with Highest recovery per 100 cases <br>
+-Least deaths per 100 cases were recorded in south east asia region <br>
+-After vaccination new cases were highest in african region <br>
+-While highest new deaths were recorded in south east asia region <br>
