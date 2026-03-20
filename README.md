@@ -1,7 +1,7 @@
 # Covid_19_Data
 __Investigative analysis of covid_19 data for different WHO regions__ <br>
 
----
+--
 
 __Project overview__ <br>
 The goal of this project was investigative analysis and visualization for covid-19 dataset from year 2020-2021 
